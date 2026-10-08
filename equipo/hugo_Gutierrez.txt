@@ -1,0 +1,4 @@
+Nombre:Hugo
+Apellido:Gutierrez
+Grupo:AnalisisElecciones
+Rol o responsabilidad principal:Encargado
