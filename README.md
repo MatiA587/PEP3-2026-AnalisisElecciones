@@ -2,6 +2,9 @@
 
 ## Análisis estadístico de riesgos y datos electorales
 
+**Equipo:** Team PEAK  
+**Proyecto:** RiskMetrics Studio
+
 Proyecto académico de Probabilidad y Estadística — Paralelo 3, Universidad Franz Tamayo.
 
 El proyecto desarrolla un prototipo en Python para organizar datos, aplicar herramientas estadísticas, visualizar resultados e identificar posibles comportamientos atípicos. El caso de estudio electoral analiza las elecciones generales de Bolivia de 2019, incluyendo la comparación entre TREP y resultados oficiales.
