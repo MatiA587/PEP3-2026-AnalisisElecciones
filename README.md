@@ -1,9 +1,8 @@
-# RiskMetrics Studio
+# Team PEAK
 
 ## Análisis estadístico de riesgos y datos electorales
 
-**Equipo:** Team PEAK  
-**Proyecto:** RiskMetrics Studio
+**Equipo:** Team PEAK
 
 Proyecto académico de Probabilidad y Estadística — Paralelo 3, Universidad Franz Tamayo.
 
@@ -20,7 +19,7 @@ El proyecto desarrolla un prototipo en Python para organizar datos, aplicar herr
 
 ## Documentación principal
 
-La documentación describe los objetivos, roles, metodología, variables, etapas del análisis, tecnologías, cronograma, alcance y limitaciones de RiskMetrics Studio.
+La documentación describe los objetivos, roles, metodología, variables, etapas del análisis, tecnologías, cronograma, alcance y limitaciones del proyecto.
 
 ## Estado actual
 
