@@ -1,0 +1,4 @@
+Nombre: Sebastián Matias
+Apellido: Alba Ordoñez
+Grupo: AnalisisElecciones
+Rol principal: Encargado de buscar información y aplicarla al proyecto
