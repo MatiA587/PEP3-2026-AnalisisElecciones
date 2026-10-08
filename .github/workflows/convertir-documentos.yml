@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
     paths-ignore:
-      - "avances/**/*.md"
+      - "documentacion/texto/**/*.md"
   workflow_dispatch:
 
 permissions:
@@ -30,7 +30,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add avances/**/*.md
+          git add documentacion/texto/**/*.md
           if git diff --cached --quiet; then
             echo "No hay cambios para guardar."
           else
