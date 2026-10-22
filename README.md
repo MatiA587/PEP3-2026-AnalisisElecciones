@@ -1,26 +1,27 @@
 # Team PEAK
 
-## Análisis estadístico de riesgos y datos electorales
+## Análisis estadístico de datos electorales de Bolivia (elecciones generales de 2019)
 
-**Equipo:** Team PEAK
+**Equipo:** Team PEAK  
+**Materia:** Probabilidad y Estadística — Paralelo 3, Universidad Franz Tamayo.
 
-Proyecto académico de Probabilidad y Estadística — Paralelo 3, Universidad Franz Tamayo.
+El proyecto propone un prototipo académico en Python para organizar datos electorales documentados, aplicar estadística descriptiva, comparar registros compatibles, visualizar resultados e identificar observaciones atípicas que merezcan revisión contextual.
 
-El proyecto desarrolla un prototipo en Python para organizar datos, aplicar herramientas estadísticas, visualizar resultados e identificar posibles comportamientos atípicos. El caso de estudio electoral analiza las elecciones generales de Bolivia de 2019, incluyendo la comparación entre TREP y resultados oficiales.
+> **Límite de interpretación:** una diferencia estadística o un valor atípico no constituye por sí mismo una prueba de fraude o manipulación. El prototipo no sustituye una auditoría electoral ni emite conclusiones jurídicas.
 
-> **Importante:** el proyecto tiene fines académicos y de análisis estadístico. Una diferencia estadística o un valor atípico no constituye por sí mismo una prueba de fraude o manipulación.
+## Documentación
+
+- [Plan de cierre para la evaluación](documentacion/plan_cierre_aprobacion.md): nombre y alcance unificados, metodología propuesta, fórmulas, arquitectura, pruebas de aceptación, responsabilidades y cronograma.
+- `documentacion/texto/`: extracciones automáticas de documentos originales. Pueden conservar inconsistencias o versiones antiguas; deben cotejarse con los originales antes de usarse como documentos finales.
+- `scripts/`: herramientas auxiliares, incluida la conversión de PDF/DOCX a Markdown.
+
+## Estado y limitaciones
+
+La documentación describe el diseño propuesto. No se debe afirmar que el prototipo está terminado ni que los datos fueron validados hasta comprobar el código, registrar la fuente y versión del conjunto de datos, y ejecutar las pruebas. La selección de datos y la fecha oficial de entrega deben confirmarse con el equipo y el docente.
 
 ## Estructura del repositorio
 
-- documentacion/ — documentos del proyecto y sus versiones de texto.
-- equipo/ — información y organización del equipo.
-- scripts/ — herramientas auxiliares del repositorio.
-- .github/workflows/ — automatizaciones de GitHub.
-
-## Documentación principal
-
-La documentación describe los objetivos, roles, metodología, variables, etapas del análisis, tecnologías, cronograma, alcance y limitaciones del proyecto.
-
-## Estado actual
-
-El repositorio contiene la documentación base del proyecto. La estructura está preparada para incorporar posteriormente el código fuente, datos y resultados sin mezclar estos elementos con la documentación.
+- `documentacion/`: documentos y versiones de texto.
+- `equipo/`: organización del equipo.
+- `scripts/`: herramientas auxiliares.
+- `.github/workflows/`: automatizaciones de GitHub.
