@@ -25,7 +25,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install pypdf python-docx
       - name: Convertir PDF y DOCX
-        run: python scripts/convertir_documentos.py
+        run: |
+          ls -la scripts/
+          python scripts/convertir_documentos.py
       - name: Guardar versiones Markdown
         run: |
           git config user.name "github-actions[bot]"
